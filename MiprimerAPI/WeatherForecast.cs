@@ -19,5 +19,7 @@ namespace MiprimerAPI
             Summary = summary;
             this.city = city;
         }
+
+        
     }
 }
